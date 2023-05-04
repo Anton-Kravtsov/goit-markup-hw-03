@@ -147,6 +147,11 @@ button {
   color: var(--pressed-state);
 }
 
+.list-contact {
+  display: flex;
+  gap: 40px;
+}
+
 .info {
   font-style: normal;
 }
