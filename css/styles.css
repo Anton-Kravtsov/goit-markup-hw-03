@@ -148,8 +148,6 @@ button {
 }
 
 .info {
-  display: flex;
-  gap: 40px;
   font-style: normal;
 }
 
