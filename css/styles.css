@@ -185,6 +185,7 @@ button {
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
+  max-width: 496px;
 }
 
 .modal-btn {
@@ -203,6 +204,8 @@ button {
   flex: none;
   order: 0;
   flex-grow: 0;
+
+  display: block;
 }
 
 .modal-btn:hover,
