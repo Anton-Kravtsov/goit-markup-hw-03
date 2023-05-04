@@ -87,7 +87,9 @@ button {
 .page-header {
   border-bottom: 1px solid var(--accent);
 }
-
+.div-header {
+  display: flex;
+}
 .logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 800;
