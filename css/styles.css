@@ -83,6 +83,16 @@ button {
   font-family: inherit;
 }
 
+.container {
+  width: 1158px;
+  padding: 0 15px;
+}
+
+.page-nav {
+  display: flex;
+  align-items: center;
+}
+
 /* ===================header========================= */
 .page-header {
   border-bottom: 1px solid var(--accent);
