@@ -135,6 +135,7 @@ button {
   flex: none;
   order: 0;
   flex-grow: 0;
+  padding: 24px 0;
 }
 .link-item:hover,
 .link-item:focus {
@@ -147,6 +148,8 @@ button {
 }
 
 .info {
+  display: flex;
+  gap: 40px;
   font-style: normal;
 }
 
