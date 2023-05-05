@@ -253,7 +253,13 @@ button {
 
 .gallery-section {
   background-color: var(--light);
+  padding: 120px 0;
 }
+
+.gallery-section-header {
+  margin-bottom: 72px;
+}
+
 .gallery-secondary-header {
   font-weight: 500;
   font-size: 20px;
