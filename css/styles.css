@@ -260,6 +260,11 @@ button {
   margin-bottom: 72px;
 }
 
+.gallery-list {
+  display: flex;
+  gap: 24px;
+}
+
 .gallery-secondary-header {
   font-weight: 500;
   font-size: 20px;
