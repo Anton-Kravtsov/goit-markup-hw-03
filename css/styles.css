@@ -217,6 +217,20 @@ button {
   background-color: #404bbf;
 }
 
+/* =================features=============== */
+.features-section {
+  padding: 120px 0;
+}
+
+.features-list {
+  display: flex;
+  gap: 24px;
+}
+
+.features-section-secondary-header {
+  margin-bottom: 8px;
+}
+
 /* =================gallery================ */
 
 .gallery-section {
