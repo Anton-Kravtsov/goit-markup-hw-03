@@ -247,6 +247,7 @@ button {
 
 .doing-list {
   display: flex;
+  gap: 24px;
 }
 /* =================gallery================ */
 
