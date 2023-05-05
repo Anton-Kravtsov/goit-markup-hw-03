@@ -227,6 +227,10 @@ button {
   gap: 24px;
 }
 
+.features-first-li {
+  width: calc((100% - 72px) / 4);
+}
+
 .features-section-secondary-header {
   margin-bottom: 8px;
 }
