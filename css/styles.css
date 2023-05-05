@@ -241,6 +241,13 @@ button {
   padding-bottom: 120px;
 }
 
+.doing-section-header {
+  margin-bottom: 72px;
+}
+
+.doing-list {
+  display: flex;
+}
 /* =================gallery================ */
 
 .gallery-section {
