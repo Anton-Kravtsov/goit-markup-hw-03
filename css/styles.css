@@ -227,7 +227,7 @@ button {
   gap: 24px;
 }
 
-.features-first-li {
+.features-li-list {
   width: calc((100% - 72px) / 4);
 }
 
