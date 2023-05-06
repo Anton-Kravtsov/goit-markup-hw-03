@@ -346,10 +346,15 @@ button {
 
   color: var(--primary-brand);
   background-color: var(--light);
+
+  padding: 12px 24px;
+  border: 1px solid var(--accent);
+  border-radius: 4px;
 }
 
 .filter-btn:hover,
 .filter-btn:focus {
   color: var(--white-background);
   background-color: var(--pressed-state);
+  border: 1px solid transparent;
 }
