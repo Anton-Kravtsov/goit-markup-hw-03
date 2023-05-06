@@ -323,6 +323,10 @@ button {
 
 /* ========================portfolio===================== */
 
+.portfolio-main-section {
+  padding: 96px 0 120px;
+}
+
 .filter-btn {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
