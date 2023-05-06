@@ -277,6 +277,7 @@ button {
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--dark-headers-text);
+  margin-bottom: 8px;
 }
 
 .gallery-paragraph {
