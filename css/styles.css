@@ -327,6 +327,13 @@ button {
   padding: 96px 0 120px;
 }
 
+.filter-list {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 72px;
+}
+
 .filter-btn {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
