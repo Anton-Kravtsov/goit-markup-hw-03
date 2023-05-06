@@ -300,6 +300,10 @@ button {
   background-color: var(--white-background);
 }
 
+.employee {
+  padding: 32px 16px;
+}
+
 /* =========================footer====================== */
 
 .footer-main {
